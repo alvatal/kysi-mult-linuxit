@@ -1,0 +1,162 @@
+/* LEHEKÜLJE TÜPOGRAAFIA */
+
+html {
+    font-family: tahoma, ubuntu, arial, helvetica, sans-serif;
+}
+
+html,    
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@page {
+    margin: 2cm;
+}
+
+p {
+    margin-bottom: 0.21cm;
+    margin-top: 0.13cm;
+
+    font-size: 1.1em;
+    line-height: 1.6em;
+    z-index: 1;
+}
+
+h1 {
+    font-variant: small-caps;
+} 
+
+h2 {
+    font-variant: small-caps;
+} 
+
+li {
+    margin-bottom: 0.21cm;
+    font-size: 1.1em;
+    line-height: 1.3em;
+}
+
+#konteiner {
+    position: absolute;
+    margin-left:-435px;
+    margin-top:-370px;
+    left:50%;
+    top:50%;
+    width: 870px;
+    height:740px;
+    background:#ffffff url('/assets/img/joonistus.png') no-repeat center top;
+}
+
+.sisukorra_mullid {
+	left: 710px;
+    top: 560px;
+    position:absolute;
+    width: 207px;
+    height:147px;
+	background: url('../img/sisukord-mullid.png') bottom right no-repeat;
+	border-bottom: 0px solid white;
+	z-index: 0;
+}
+
+#sisukord {
+    left: 710px;
+	top: 560px;
+	position:absolute;
+	width: 207px;
+	height:147px;
+	background: url('../img/sisukord.png') bottom right no-repeat;
+	cursor: pointer;
+}
+
+#sisukord:link,
+#sisukord:visited,
+#sisukord:active {
+	border-bottom: 0px solid white;
+}
+
+#sisukord:hover {
+	background: url('../img/sisukord-fookuses.png') bottom right no-repeat;
+	background-position: 2 2;
+}
+
+#menyy {
+    text-align: right;
+    position: absolute;
+    left:-150px;
+    top: -120px;
+    width: 360px;
+    height:288px;
+    background: url('/assets/img/joonistus3.png') bottom right no-repeat;
+    display:none;
+    z-index: 2;
+
+}
+
+#sisukord:hover #menyy {
+    display: block;
+}
+
+#menyy a {
+    padding: 3pt;
+}
+
+#menyy a:link,
+#menyy a:visited,
+#menyy a:active {
+	border-bottom: none;
+	margin: 1pt 3pt 1pt;
+	border-radius: 7px;
+	text-align: center;
+	color: black;
+	font-size: 1.1em;
+	line-height: 1.6em;
+}
+
+
+#menyy a:hover {
+	border-bottom: none;
+	margin: 1pt 3pt 1pt;
+	border-radius: 7px;
+	text-align: center;
+	color: white; 
+	background-color: black; 
+	font-size: 1.1em;
+	line-height: 1.6em;
+}
+
+a {
+    text-decoration:none;
+    color: black; 
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    border-color: #0071bc;
+}
+
+a:hover,
+a:active {
+    border-color #DD4814;
+}
+
+
+/* TULBAD */
+
+.column1 {
+    float: left; /* LTR */
+    width: 500px;
+    margin-left: 0px; /* LTR */
+    margin-right: -500px; /* LTR */ /* Negative value of #content's width + left margin. */
+    margin: 0; /* DO NOT CHANGE. Add margin or margin to #content .section. */
+    position : relative;
+}
+
+.column2 {
+    float: left; /* LTR */
+    width: 425px;
+    margin-left: 520px; /* LTR */ /* Width of content + sidebar-first. */
+    margin-right: -945px; /* LTR */ /* Negative value of .region-sidebar-second's width + left margin. */
+    margin: 0; /* DO NOT CHANGE. Add margin or margin to .region-sidebar-second .section. */
+    position : relative;
+}
