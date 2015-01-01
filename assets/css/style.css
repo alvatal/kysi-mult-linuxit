@@ -47,7 +47,7 @@ li {
     top:50%;
     width: 870px;
     height:740px;
-    background:#ffffff url('/assets/img/joonistus.png') no-repeat center top;
+    background:#ffffff url('../img/joonistus.png') no-repeat center top;
 }
 
 .sisukorra_mullid {
@@ -89,7 +89,7 @@ li {
     top: -120px;
     width: 360px;
     height:288px;
-    background: url('/assets/img/joonistus3.png') bottom right no-repeat;
+    background: url('../img/joonistus3.png') bottom right no-repeat;
     display:none;
     z-index: 2;
 
