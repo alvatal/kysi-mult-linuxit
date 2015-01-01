@@ -15,12 +15,12 @@ saad arvutit endisel viisil edasi kasutada.
 
 <div style="float:left; margin-right: 20px;">
 <object width="180" height="100" align="left" style="margin-right: 20px;">
-<param name="MOVIE" value="/assets/swf/estobuntu-hall-vaike.swf">
+<param name="MOVIE" value="assets/swf/estobuntu-hall-vaike.swf">
 <param name="PLAY" value="true">
 <param name="LOOP" value="true">
 <param name="QUALITY" VALUE="high">
 <param name="wmode" value="transparent">
-<embed SRC="/assets/swf/estobuntu-hall-vaike.swf" width="180" height="100"
+<embed SRC="assets/swf/estobuntu-hall-vaike.swf" width="180" height="100"
 play="true" align="" loop="true" quality="high" wmode="transparent"
 type="application/x-shockwave-flash"
 pluginspace="http://www.macromedia.com/go/getflashplayer">

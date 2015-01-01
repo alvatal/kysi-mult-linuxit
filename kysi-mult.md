@@ -18,7 +18,7 @@ et sa teaks alustavate Linuxi-kasutajate levinumaid probleeme.
   ning juhendite järgi lahendamist. Alati pole võimalik pöörduda tehnilise toe
   poole, kes asja lihtsalt raha eest korda teeb.
 
-<img style="float:left;padding-right:2em; padding-bottom: 1em;" src="/assets/img/kysi-mult-linuxit-halo.png"/>
+<img style="float:left;padding-right:2em; padding-bottom: 1em;" src="assets/img/kysi-mult-linuxit-halo.png"/>
 
 Sageli piisab probleemi lahendamiseks paarist selgitavast lausest. Mõnikord on aga vaja asjad üksipulgi ette näidata.
 Et tunneksid end Linuxi kasutusele­võtmisel kindlamini,

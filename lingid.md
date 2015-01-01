@@ -13,13 +13,13 @@ title: Estobuntu
   [[Video]](http://www.youtube.com/watch?v=bW7aDvn3q3s)
 
 <object width="468" height="60">
-    <param name="MOVIE" VALUE="/assets/swf/estobuntu-must.swf">
+    <param name="MOVIE" VALUE="assets/swf/estobuntu-must.swf">
     <param name="PLAY" VALUE="true">
     <param name="LOOP" VALUE="true">
     <param name="QUALITY" VALUE="high">
     <param name="wmode" value="transparent"> 
     <embed
-        src="/assets/swf/estobuntu-must.swf"
+        src="assets/swf/estobuntu-must.swf"
         width="468"
         height="60"
         play="true"

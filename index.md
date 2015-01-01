@@ -22,8 +22,8 @@ täiendades luua suhteliselt väikese vaevaga oma Eesti opsüsteemi.
 Ka sina oled oodatud aitama kaasa [Estobuntu arendamisele](http://www.estobuntu.org/aita-kaasa)!
 
 <div style="text-align: center;">
-    <a href="kampaaniast.php" style="border:none;margin-right:2em;"><img src="/assets/img/NewTux.png"/></a>
-    <a href="kysi-mult.php" style="border:none;"><img src="/assets/img/kysi-mult-linuxit-halo.png"/></a>
+    <a href="kampaaniast.php" style="border:none;margin-right:2em;"><img src="assets/img/NewTux.png"/></a>
+    <a href="kysi-mult.php" style="border:none;"><img src="assets/img/kysi-mult-linuxit-halo.png"/></a>
 </div>
 
 
